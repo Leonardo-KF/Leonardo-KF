@@ -16,4 +16,4 @@
 </div>
   
   
-  ![Snake animation](https://github.com/Leonardo-KF/LeonardoF/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Leonardo-KF/Leonardo-KF/blob/output/github-contribution-grid-snake.svg)
