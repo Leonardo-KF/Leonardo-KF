@@ -1,4 +1,4 @@
-Olá! Bem vindo!! Qualquer duvida me contate hehe
+Olá! Bem vindo!!
 
 
 <div>
